@@ -1,4 +1,4 @@
-# Product_1
+# Development Board
 A development board used for learning- and prototyping purposes.
 
 Inclduing:
